@@ -18,6 +18,12 @@ Bachelor of Science, [Biology][aubio], *magna cum laude*, [University Honors][au
 
 ## Technical Skills
 
+- Deploying cloud services in Google Cloud, using Compute Engine, Cloud Storage, Life Sciences, Batch, Vertex AI Workbench, Cloud Run, Cloud Functions, and BigQuery
+- Scripting in R and Bash in IDE and notebook environments; basic familiarity with Python, SQL, and YAML
+- Version control and project management with git, GitHub, and Cloud Source Repositories
+- Deploying open-source, containerized, and reproducible bioinformatics tools and pipelines for: genomics, metagenomics, transcriptomics, data mining, data processing, and statistical analysis
+- Working in Linux (strongly preferred), macOS, and Windows environments
+
 ## Professional Experience
 
 ## Other Professional Experience
