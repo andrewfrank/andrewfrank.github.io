@@ -40,6 +40,24 @@ May 2018 - November 2020
 
 ## Other Professional Experience
 
+### Computational Biology Core, University of Connecticut
+
+Storrs, Connecticut  
+Bioinformatics Intern  
+January 2018 - May 2018  
+
+### National Science Foundation Graduate Research Fellowship
+
+Storrs, Connecticut  
+Graduate Research Fellow  
+July 2014 - June 2017  
+
+### Hartford Public Schools and Teach for America
+
+Hartford, Connecticut  
+Science Teacher, High School  
+June 2011 - May 2013  
+
 ## Publications
 
 - Horseman, T.S., **Frank, A.**, *et al.* (2023). Meta-Analysis of Publicly Available Clinical and Preclinical Microbiome Data From Studies of Burn Injury. *Journal of Burn Care & Research*. <https://doi.org/10.1093/jbcr/irad098>
