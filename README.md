@@ -21,7 +21,7 @@ Bachelor of Science, Biology, *magna cum laude*, University Honors
 - Deploying cloud services in Google Cloud, using Compute Engine, Cloud Storage, Life Sciences, Batch, Vertex AI Workbench, Cloud Run, Cloud Functions, and BigQuery
 - Scripting in R and Bash in IDE and notebook environments; basic familiarity with Python, SQL, and YAML
 - Version control and project management with git, GitHub, and Cloud Source Repositories
-- Deploying open-source, containerized, and reproducible bioinformatics tools and pipelines for: genomics, metagenomics, transcriptomics, data mining, data processing, and statistical analysis
+- Deploying open-source, containerized, and reproducible bioinformatics tools and pipelines for genomics, metagenomics, transcriptomics, data mining, data processing, and statistical analysis; emphasis on deploying workflows with Nextflow and nf-core series community workflows
 - Working in Linux (strongly preferred), macOS, and Windows environments
 
 ## Professional Experience
@@ -30,7 +30,14 @@ Bachelor of Science, Biology, *magna cum laude*, University Honors
 
 Bethesda, MD  
 Bioinformatics Research Associate II  
-October 2021 - Present  
+November 2021 - Present  
+
+- Lead the operations of the "Student Bioinformatics Initiative" at the Uniformed Services University of the Health Sciences, a bioinformatics best-practices clearinghouse, cloud computing lab, and consultation center for bioinformatics users at USUHS
+- Consult on a portfolio of 20+ bioinformatics projects as part of SBI (50+ total projects to date), including assistance implementing GCP solutions for bioinformatics pipelines for WGS + RNASeq datasets, microbiome metagenomics, qPCR, querying large-scale tabular data, downstream statistical analyses, and automation of long-running laboratory data processing steps
+- Manage SBI's GCP environment, including project creation, billing and usage monitoring, and proposing actions to ensure greater cloud spend efficiencies
+- Authored 8 software tutorials to enable more efficient researcher use of SBI's cloud environment, including in-depth explorations of key GCP services, deploying the bioinformatics workflow orchestrator Nextflow, downstream statistical analyses in JupyterLab environments, and version control with Git
+- Hosted and presented 20+ seminars for bioinformatics users at USUHS, with an emphasis on teaching the conceptual underpinnings of bioinformatics tools and processes, increasing the efficiency of cloud usage, and showcasing SBI-participant research outcomes
+- Selected as key personnel to continue work at USUHS as part of HJF after expiration of the previous contract under TIAG
 
 ### The Informatics Applications Group (TIAG)
 
@@ -38,11 +45,10 @@ Reston, Virginia
 Bioinformatics Scientist  
 November 2020 - October 2021  
 
-- Founded and managed the “Student Bioinformatics Initiative” (SBI) at the Uniformed Services University of the Health Sciences (USUHS), a bioinformatics best-practices clearinghouse, cloud computing lab, and consultation center for bioinformatics users at USUHS
-- Consulted on graduate student and postdoctoral researcher bioinformatics projects in the cloud, including assistance implementing GCP solutions for bioinformatics pipelines for WGS + RNASeq datasets, downstream statistical analyses, image processing, and querying large-scale healthcare datasets
+- Founded the "Student Bioinformatics Initiative" at the Uniformed Services University of the Health Sciences as part of a collaborative effort between multiple university entities to bring the power of cloud computing to graduate students and postdoctoral researchers
+- Coordinated between various university stakeholders to ensure compliance and optimization of SBI’s cloud computing infrastructure and learning content
 - Created and curated bioinformatics learning content for users, including bioinformatics tutorials, running virtual seminars, and a new university intranet site linking users to bioinformatics services across the university
-- Coordinated between various university bioinformatics stakeholders to ensure compliance and optimization of SBI’s cloud computing infrastructure and learning content
-- Advised on the creation of cloud infrastructure for the university; authored a demo server-less pipeline for handling PHI-containing data sources using GCP Workflows with the Healthcare and Data Loss Prevention APIs 
+- Advised on the creation of cloud infrastructure for the university; authored a demo server-less pipeline for handling PHI-containing data sources using GCP Workflows with the Healthcare and Data Loss Prevention APIs
 
 ### The American Type Culture Collection (ATCC)
 
@@ -78,8 +84,8 @@ June 2011 - May 2013
 
 ## Publications
 
+- Horseman, T.S., **Frank, A.**, *et al.* (2023). Longitudinal Changes in Lingual and Intestinal Microbiota in a Swine Burn Model. *Journal of Burn Care & Research*. <https://doi.org/10.1093/jbcr/irad045.075>  *Abstract accepted, manuscript in preparation*. 
 - Horseman, T.S., **Frank, A.**, *et al.* (2023). Meta-Analysis of Publicly Available Clinical and Preclinical Microbiome Data From Studies of Burn Injury. *Journal of Burn Care & Research*. <https://doi.org/10.1093/jbcr/irad098>
-- Horseman, T.S., **Frank, A.**, *et al.* (2023). Longitudinal Changes in Lingual and Intestinal Microbiota in a Swine Burn Model. *Journal of Burn Care & Research*. <https://doi.org/10.1093/jbcr/irad045.075>
 - Foreman, H., **Frank, A.**, Stedman T.T. (2021). Determination of variable region sequences form hybridoma immunoglobulins that target *Mycobacterium tuberculosis* virulence factors. *PLOS One*. <https://doi.org/10.1371/journal.pone.0256079>
 - Riojas, M. and **Frank, A.** et al. (2020). A Rare Deletion in SARS-CoV-2 ORF6 Dramatically Alters the Predicted Three-Dimensional Structure of the Resultant Protein. *bioRxiv*. <https://doi.org/10.1101/2020.06.09.134460>
 - **Frank, A.** (2019). The ATCC Genome Portal: Our Approach to Whole-genome Sequencing. *ATCC Technical Document*. <https://www.atcc.org/resources/technical-documents/genome-portal-technical-document>
