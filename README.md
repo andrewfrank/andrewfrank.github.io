@@ -20,9 +20,9 @@ Bachelor of Science, Biology, *magna cum laude*, University Honors
 
 - Designing cloud services in Google Cloud, using Compute Engine, Cloud Storage, Life Sciences, Batch, Cloud Run, Vertex AI, and BigQuery
 - Managing cloud deployments using a GitOps approach; Terraform with CICD workflows 
-- Scripting in R and Bash in IDE and notebook environments; basic familiarity with Python, SQL, and YAML
 - Version control and project management with git, GitHub, and Cloud Source Repositories
-- Deploying open-source, containerized, and reproducible bioinformatics tools and pipelines for genomics, metagenomics, transcriptomics, data mining, data processing, and statistical analysis; emphasis on deploying workflows with Nextflow and nf-core series community workflows
+- Deploying open-source, containerized, and reproducible bioinformatics tools and pipelines for genomics, metagenomics, transcriptomics, data processing, and statistical analysis; emphasis on deploying workflows with Nextflow and nf-core series community workflows
+- Scripting in R and Bash in IDE and notebook environments; basic familiarity with Python, SQL, and YAML
 - Working in Linux (strongly preferred), macOS, and Windows environments
 
 ## Professional Experience
