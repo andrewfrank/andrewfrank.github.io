@@ -66,14 +66,12 @@ May 2018 - November 2020
 
 ## Other Professional Experience
 
-### Computational Biology Core, University of Connecticut — Storrs, Connecticut
+### University of Connecticut — Storrs, Connecticut
 
-Bioinformatics Intern  
+Bioinformatics Intern, Computational Biology Core  
 January 2018 - May 2018  
-
-### National Science Foundation Graduate Research Fellowship — Storrs, Connecticut
   
-Graduate Research Fellow  
+National Science Foundation Graduate Research Fellow  
 July 2014 - June 2017  
 
 ### Hartford Public Schools and Teach for America — Hartford, Connecticut
