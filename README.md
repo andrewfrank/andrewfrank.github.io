@@ -30,8 +30,13 @@ Bachelor of Science, Biology, *magna cum laude*, University Honors
 ### The Henry M. Jackson Foundation (HJF)
 
 Bethesda, MD  
+
+IT Architect I  
+March 2024 - Present  
+- Lorem ipsum
+
 Bioinformatics Research Associate II  
-November 2021 - Present  
+November 2021 - February 2024  
 
 - Lead the operations of the "Student Bioinformatics Initiative" at the Uniformed Services University of the Health Sciences, a bioinformatics best-practices clearinghouse, cloud computing lab, and consultation center for bioinformatics users at USUHS
 - Consult on a portfolio of 20+ bioinformatics projects as part of SBI (50+ total projects to date), including assistance implementing GCP solutions for bioinformatics pipelines for WGS + RNASeq datasets, microbiome metagenomics, qPCR, querying large-scale tabular data, downstream statistical analyses, and automation of long-running laboratory data processing steps
