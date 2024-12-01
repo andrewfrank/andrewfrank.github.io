@@ -31,12 +31,13 @@ Bachelor of Science, Biology, *magna cum laude*, University Honors
 
 IT Architect I  
 March 2024 - Present  
+- Lead the Uniformed Services University of the Health Sciences "Academic Research Cloud Initiative", a cloud environment for using and building research applications in the cloud
 - Lorem ipsum
 
 Bioinformatics Research Associate II  
 November 2021 - February 2024  
 
-- Led the operations of the "Student Bioinformatics Initiative" at the Uniformed Services University of the Health Sciences, a bioinformatics best-practices clearinghouse, cloud computing lab, and consultation center for bioinformatics users at USUHS
+- Led the operations of the "Student Bioinformatics Initiative" at the USUHS School of Medicine, a bioinformatics best-practices clearinghouse, cloud computing lab, and consultation center for bioinformatics users at USUHS
 - Consulted on a portfolio of 20+ bioinformatics projects as part of SBI (50+ total projects to date), including assistance implementing GCP solutions for bioinformatics pipelines for WGS + RNASeq datasets, microbiome metagenomics, qPCR, querying large-scale tabular data, downstream statistical analyses, and automation of long-running laboratory data processing steps
 - Managed SBI's GCP environment, including project creation, billing and usage monitoring, and proposing actions to ensure greater cloud spend efficiencies
 - Authored 8 software tutorials to enable more efficient researcher use of SBI's cloud environment, including in-depth explorations of key GCP services, deploying the bioinformatics workflow orchestrator Nextflow, downstream statistical analyses in JupyterLab environments, and version control with Git
