@@ -19,10 +19,10 @@ Bachelor of Science, Biology, *magna cum laude*, University Honors
 ## Technical Skills
 
 - Designing cloud services in Google Cloud, using Compute Engine, Cloud Storage, Life Sciences, Batch, Cloud Run, Vertex AI, and BigQuery
-- Managing cloud deployments using a GitOps approach; Terraform with CICD workflows 
+- Managing cloud deployments using a GitOps approach; Terraform with CICD workflows
 - Version control and project management with git, GitHub, and Cloud Source Repositories
 - Deploying open-source, containerized, and reproducible bioinformatics tools and pipelines for genomics, metagenomics, transcriptomics, data processing, and statistical analysis; emphasis on deploying workflows with Nextflow and nf-core series community workflows
-- Scripting in R and Bash in IDE and notebook environments; basic familiarity with Python, SQL, and YAML
+- Scripting in R and Bash, including in notebook environments; basic familiarity with Python, SQL, and YAML
 - Working in Linux (strongly preferred), macOS, and Windows environments
 
 ## Professional Experience
@@ -36,9 +36,9 @@ March 2024 - Present
 Bioinformatics Research Associate II  
 November 2021 - February 2024  
 
-- Lead the operations of the "Student Bioinformatics Initiative" at the Uniformed Services University of the Health Sciences, a bioinformatics best-practices clearinghouse, cloud computing lab, and consultation center for bioinformatics users at USUHS
-- Consult on a portfolio of 20+ bioinformatics projects as part of SBI (50+ total projects to date), including assistance implementing GCP solutions for bioinformatics pipelines for WGS + RNASeq datasets, microbiome metagenomics, qPCR, querying large-scale tabular data, downstream statistical analyses, and automation of long-running laboratory data processing steps
-- Manage SBI's GCP environment, including project creation, billing and usage monitoring, and proposing actions to ensure greater cloud spend efficiencies
+- Led the operations of the "Student Bioinformatics Initiative" at the Uniformed Services University of the Health Sciences, a bioinformatics best-practices clearinghouse, cloud computing lab, and consultation center for bioinformatics users at USUHS
+- Consulted on a portfolio of 20+ bioinformatics projects as part of SBI (50+ total projects to date), including assistance implementing GCP solutions for bioinformatics pipelines for WGS + RNASeq datasets, microbiome metagenomics, qPCR, querying large-scale tabular data, downstream statistical analyses, and automation of long-running laboratory data processing steps
+- Managed SBI's GCP environment, including project creation, billing and usage monitoring, and proposing actions to ensure greater cloud spend efficiencies
 - Authored 8 software tutorials to enable more efficient researcher use of SBI's cloud environment, including in-depth explorations of key GCP services, deploying the bioinformatics workflow orchestrator Nextflow, downstream statistical analyses in JupyterLab environments, and version control with Git
 - Hosted and presented 20+ seminars for bioinformatics users at USUHS, with an emphasis on teaching the conceptual underpinnings of bioinformatics tools and processes, increasing the efficiency of cloud usage, and showcasing SBI-participant research outcomes
 - Selected as key personnel to continue work at USUHS as part of HJF after expiration of the previous contract under TIAG
