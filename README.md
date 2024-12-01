@@ -27,9 +27,7 @@ Bachelor of Science, Biology, *magna cum laude*, University Honors
 
 ## Professional Experience
 
-### The Henry M. Jackson Foundation (HJF)
-
-Bethesda, MD  
+### The Henry M. Jackson Foundation (HJF) — Bethesda, MD
 
 IT Architect I  
 March 2024 - Present  
@@ -45,9 +43,8 @@ November 2021 - February 2024
 - Hosted and presented 20+ seminars for bioinformatics users at USUHS, with an emphasis on teaching the conceptual underpinnings of bioinformatics tools and processes, increasing the efficiency of cloud usage, and showcasing SBI-participant research outcomes
 - Selected as key personnel to continue work at USUHS as part of HJF after expiration of the previous contract under TIAG
 
-### The Informatics Applications Group (TIAG)
+### The Informatics Applications Group (TIAG) — Reston, Virginia
 
-Reston, Virginia  
 Bioinformatics Scientist  
 November 2020 - October 2021  
 
@@ -56,9 +53,8 @@ November 2020 - October 2021
 - Created and curated bioinformatics learning content for users, including bioinformatics tutorials, running virtual seminars, and a new university intranet site linking users to bioinformatics services across the university
 - Advised on the creation of cloud infrastructure for the university; authored a demo server-less pipeline for handling PHI-containing data sources using GCP Workflows with the Healthcare and Data Loss Prevention APIs
 
-### The American Type Culture Collection (ATCC)
+### The American Type Culture Collection (ATCC) — Manassas, Virginia
 
-Manassas, Virginia  
 Bioinformatician  
 May 2018 - November 2020  
 
@@ -70,21 +66,18 @@ May 2018 - November 2020
 
 ## Other Professional Experience
 
-### Computational Biology Core, University of Connecticut
+### Computational Biology Core, University of Connecticut — Storrs, Connecticut
 
-Storrs, Connecticut  
 Bioinformatics Intern  
 January 2018 - May 2018  
 
-### National Science Foundation Graduate Research Fellowship
-
-Storrs, Connecticut  
+### National Science Foundation Graduate Research Fellowship — Storrs, Connecticut
+  
 Graduate Research Fellow  
 July 2014 - June 2017  
 
-### Hartford Public Schools and Teach for America
+### Hartford Public Schools and Teach for America — Hartford, Connecticut
 
-Hartford, Connecticut  
 Science Teacher, High School  
 June 2011 - May 2013  
 
