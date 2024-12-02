@@ -18,11 +18,11 @@ Bachelor of Science, Biology, *magna cum laude*, University Honors
 
 ## Technical Skills
 
-- Designing cloud services in Google Cloud, using Compute Engine, Cloud Storage, Life Sciences, Batch, Cloud Run, Vertex AI, and BigQuery
+- Designing cloud services in Google Cloud (GCP), using Compute Engine, Cloud Storage, Life Sciences, Batch, Cloud Run, Vertex AI, and BigQuery
 - Managing cloud deployments using a GitOps approach; Terraform with CICD workflows
-- Version control and project management with git, GitHub, and Cloud Source Repositories
+- Version control and project management with git, remote repository services like GitHub, CICD workflow services like Cloud Build
 - Deploying open-source, containerized, and reproducible bioinformatics tools and pipelines for genomics, metagenomics, transcriptomics, data processing, and statistical analysis; emphasis on deploying workflows with Nextflow and nf-core series community workflows
-- Scripting in R and Bash, including in notebook environments; basic familiarity with Python, SQL, and YAML
+- Scripting in R for data analysis and Bash for automation, including in notebook environments; basic familiarity with Python, SQL, and YAML
 - Working in Linux (strongly preferred), macOS, and Windows environments
 
 ## Professional Experience
@@ -31,8 +31,12 @@ Bachelor of Science, Biology, *magna cum laude*, University Honors
 
 IT Architect I  
 March 2024 - Present  
-- Lead the Uniformed Services University of the Health Sciences "Academic Research Cloud Initiative", a cloud environment for using and building research applications in the cloud
-- Lorem ipsum
+
+- Lead the Uniformed Services University of the Health Sciences "Academic Research Cloud Initiative", a new university GCP environment for developing and operating research applications
+- Collaborating with internal stakeholders and Google's Professional Services Organization to deploy a FedRAMP and university policy compliant security-best practice cloud deployment using Assured Workloads and Google's Enterprise Foundation Blueprint
+- Trailblazing adoption of a GitOps approach to cloud management using Terraform, git, Secure Source Manager, and Cloud Build
+- Developing applications for commonly used cloud services by researchers, including deployments of Cloud Workstations and central management of bioinformatics workflows with Google's Batch API
+- Growing and supervising the team operating the ARC Initiative, responsible for writing job descriptions, interviewing, and hiring for positions new to HJF
 
 Bioinformatics Research Associate II  
 November 2021 - February 2024  
