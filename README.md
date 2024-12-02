@@ -56,7 +56,7 @@ November 2020 - October 2021
 - Founded the "Student Bioinformatics Initiative" at the Uniformed Services University of the Health Sciences as part of a collaborative effort between multiple university entities to bring the power of cloud computing to graduate students and postdoctoral researchers
 - Coordinated between various university stakeholders to ensure compliance and optimization of SBI’s cloud computing infrastructure and learning content
 - Created and curated bioinformatics learning content for users, including bioinformatics tutorials, running virtual seminars, and a new university intranet site linking users to bioinformatics services across the university
-- Advised on the creation of cloud infrastructure for the university; authored a demo server-less pipeline for handling PHI-containing data sources using GCP Workflows with the Healthcare and Data Loss Prevention APIs
+- Advised on the creation of cloud infrastructure for the university; authored a demo server-less pipeline for handling sensitive PII-containing data sources using GCP Workflows with the Healthcare and Data Loss Prevention APIs
 
 ### The American Type Culture Collection (ATCC) — Manassas, Virginia
 
@@ -81,7 +81,7 @@ July 2014 - June 2017
 
 ### Hartford Public Schools and Teach for America — Hartford, Connecticut
 
-Science Teacher, High School  
+High School Science Teacher
 June 2011 - May 2013  
 
 ## Publications
