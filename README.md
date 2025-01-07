@@ -86,6 +86,7 @@ June 2011 - May 2013
 
 ## Publications
 
+- Bauman, B., *et al.* (including **Frank, A.**). (2025). Dominant interfering CARD11 variants disrupt signaling to JNK and AP-1 in T cells and promote increased GATA3 and NFAT2 expression. *Journal of Experimental Medicine*. *Provsionally accepted.*
 - Daley, B., *et al.* (including **Frank, A.**). (2024). SOS1 Inhibition Enhances the Efficacy of KRASG12C Inhibitors and Delays Resistance in Lung Adenocarcinoma. *Cancer Research*. <https://doi.org/10.1158/0008-5472.CAN-23-3256>
 - Horseman, T.S., **Frank, A.**, *et al.* (2024). Effects of combined ciprofloxacin and Neulasta therapy on intestinal pathology and gut microbiota after high-dose irradiation in mice. *Frontiers in Public Health*. <https://doi.org/10.3389/fpubh.2024.1365161>
 - Horseman, T.S., *et al.* (including **Frank, A.**). (2024). Ferroptosis, Inflammation, and Microbiome Alterations in the Intestine in the Göttingen Minipig Model of Hematopoietic-Acute Radiation Syndrome. *International Journal of Molecular Sciences*. <https://doi.org/10.3390/ijms25084535>
