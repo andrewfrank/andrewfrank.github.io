@@ -84,17 +84,22 @@ July 2014 - June 2017
 High School Science Teacher
 June 2011 - May 2013  
 
-## Publications
+## [Publications](https://scholar.google.com/citations?user=eSgMGrgAAAAJ)
 
 - Mangione, C., **Frank, A.**, *et al.* (2025). Transcriptional reprogramming in SMA mouse hearts reveals signatures of early heart failure and dysregulated calcium signaling. *Human Molecular Genetics*. <https://doi.org/10.1093/hmg/ddaf060>
 - Bauman, B., *et al.* (including **Frank, A.**). (2025). Dominant interfering CARD11 variants disrupt JNK signaling to promote GATA3 expression in T cells. *Journal of Experimental Medicine*. <https://doi.org/10.1084/jem.20240272>
+- Bauman, B., *et al.* (including **Frank, A.**). (2025). CARD11-dependent signaling in T cells is critical for the activation of multiple AP-1 transcription factor complexes. *Journal of Experimental Medicine*.
+- Ferrer, P., **Frank, A.**, *et al.* (2024). Plasmablast Ig repertoire dynamics through repeat Plasmodium falciparum challenges reveal signatures of negative selection. *Journal of Immunology*. <https://doi.org/10.4049/jimmunol.212.supp.0224.5984>
+
 - Daley, B., *et al.* (including **Frank, A.**). (2024). SOS1 Inhibition Enhances the Efficacy of KRASG12C Inhibitors and Delays Resistance in Lung Adenocarcinoma. *Cancer Research*. <https://doi.org/10.1158/0008-5472.CAN-23-3256>
+- Horseman, T.S., *et al.* (including **Frank, A.**). (2024). Microbiome and inflammasome alterations found during radiation dose finding in a Sinclair minipig model of gastrointestinal acute radiation syndrome. *Shock*. <https://doi.org/10.1097/shk.0000000000002422>
 - Horseman, T.S., **Frank, A.**, *et al.* (2024). Effects of combined ciprofloxacin and Neulasta therapy on intestinal pathology and gut microbiota after high-dose irradiation in mice. *Frontiers in Public Health*. <https://doi.org/10.3389/fpubh.2024.1365161>
 - Horseman, T.S., *et al.* (including **Frank, A.**). (2024). Ferroptosis, Inflammation, and Microbiome Alterations in the Intestine in the Göttingen Minipig Model of Hematopoietic-Acute Radiation Syndrome. *International Journal of Molecular Sciences*. <https://doi.org/10.3390/ijms25084535>
 - Horseman, T.S., **Frank, A.**, *et al.* (2023). Longitudinal Changes in Lingual and Intestinal Microbiota in a Swine Burn Model. *Journal of Burn Care & Research*. <https://doi.org/10.1093/jbcr/irad045.075>
 - Horseman, T.S., **Frank, A.**, *et al.* (2023). Meta-Analysis of Publicly Available Clinical and Preclinical Microbiome Data From Studies of Burn Injury. *Journal of Burn Care & Research*. <https://doi.org/10.1093/jbcr/irad098>
 - Foreman, H., **Frank, A.**, Stedman T.T. (2021). Determination of variable region sequences form hybridoma immunoglobulins that target *Mycobacterium tuberculosis* virulence factors. *PLOS One*. <https://doi.org/10.1371/journal.pone.0256079>
-- Riojas, M. and **Frank, A.** et al. (2020). A Rare Deletion in SARS-CoV-2 ORF6 Dramatically Alters the Predicted Three-Dimensional Structure of the Resultant Protein. *bioRxiv*. <https://doi.org/10.1101/2020.06.09.134460>
+- Riojas, M. and **Frank, A.**, *et al.* (2021). Identification and Characterization of Mycobacterial Species Using Whole-Genome Sequences. *Mycobacteria Protocols. Methods in Molecular Biology, vol 2314.* <https://doi.org/10.1007/978-1-0716-1460-0_19>
+- Riojas, M. and **Frank, A.**, *et al.* (2020). A Rare Deletion in SARS-CoV-2 ORF6 Dramatically Alters the Predicted Three-Dimensional Structure of the Resultant Protein. *bioRxiv*. <https://doi.org/10.1101/2020.06.09.134460>
 - **Frank, A.** (2019). The ATCC Genome Portal: Our Approach to Whole-genome Sequencing. *ATCC Technical Document*. <https://www.atcc.org/resources/technical-documents/genome-portal-technical-document>
 - Lopera, J., **Frank, A.**, *et al.* (2019). Microbial Genome Databases: Existing Challenges and the Need for Authenticated Reference Genomes. *ATCC Application Note*. <https://www.atcc.org/resources/application-notes/microbial-genome-databases>
 
