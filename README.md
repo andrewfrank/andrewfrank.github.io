@@ -86,6 +86,7 @@ June 2011 - May 2013
 
 ## Publications
 
+- Mangione, C., **Frank, A.**, *et al.* (2025). Transcriptional reprogramming in SMA mouse hearts reveals signatures of early heart failure and dysregulated calcium signaling. *Human Molecular Genetics*. <https://doi.org/10.1093/hmg/ddaf060>
 - Bauman, B., *et al.* (including **Frank, A.**). (2025). Dominant interfering CARD11 variants disrupt JNK signaling to promote GATA3 expression in T cells. *Journal of Experimental Medicine*. <https://doi.org/10.1084/jem.20240272>
 - Daley, B., *et al.* (including **Frank, A.**). (2024). SOS1 Inhibition Enhances the Efficacy of KRASG12C Inhibitors and Delays Resistance in Lung Adenocarcinoma. *Cancer Research*. <https://doi.org/10.1158/0008-5472.CAN-23-3256>
 - Horseman, T.S., **Frank, A.**, *et al.* (2024). Effects of combined ciprofloxacin and Neulasta therapy on intestinal pathology and gut microbiota after high-dose irradiation in mice. *Frontiers in Public Health*. <https://doi.org/10.3389/fpubh.2024.1365161>
