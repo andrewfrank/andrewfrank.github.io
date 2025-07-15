@@ -81,7 +81,7 @@ July 2014 - June 2017
 
 ### Hartford Public Schools and Teach for America — Hartford, Connecticut
 
-High School Science Teacher
+High School Science Teacher  
 June 2011 - May 2013  
 
 ## [Publications][gscholar]
