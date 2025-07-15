@@ -27,12 +27,12 @@ Bachelor of Science, Biology, *magna cum laude*, University Honors
 
 ## Professional Experience
 
-### The Henry M. Jackson Foundation (HJF) — Bethesda, MD
+### The Henry M. Jackson Foundation (HJF) — Bethesda, Maryland
 
 IT Architect I  
 March 2024 - Present  
 
-- Lead the Uniformed Services University of the Health Sciences "Academic Research Cloud Initiative", a new university GCP environment for developing and operating research applications
+- Lead the Uniformed Services University of the Health Sciences "Academic Research Cloud Initiative" (ARC), a new university GCP environment for developing and operating research applications
 - Collaborating with internal stakeholders and Google's Professional Services Organization to deploy a FedRAMP and university policy compliant security-best practice cloud deployment using Assured Workloads and Google's Enterprise Foundation Blueprint
 - Trailblazing adoption of a GitOps approach to cloud management using Terraform, git, Secure Source Manager, and Cloud Build
 - Developing applications for commonly used cloud services by researchers, including deployments of Cloud Workstations and central management of bioinformatics workflows with Google's Batch API
