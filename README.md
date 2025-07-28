@@ -86,7 +86,7 @@ June 2011 - May 2013
 
 - Mangione, C., **Frank, A.**, *et al.* (2025). Transcriptional reprogramming in SMA mouse hearts reveals signatures of early heart failure and dysregulated calcium signaling. *Human Molecular Genetics*. <https://doi.org/10.1093/hmg/ddaf060>
 - Bauman, B., *et al.* (including **Frank, A.**). (2025). Dominant interfering CARD11 variants disrupt JNK signaling to promote GATA3 expression in T cells. *Journal of Experimental Medicine*. <https://doi.org/10.1084/jem.20240272>
-- Bauman, B., *et al.* (including **Frank, A.**). (2025). CARD11-dependent signaling in T cells is critical for the activation of multiple AP-1 transcription factor complexes. *Journal of Experimental Medicine*.
+- Bauman, B., *et al.* (including **Frank, A.**). (2025). CARD11-dependent signaling in T cells is critical for the activation of multiple AP-1 transcription factor complexes. *Journal of Immunology*. <https://doi.org/10.4049/jimmunol.212.supp.0224.5984>
 - Ferrer, P., **Frank, A.**, *et al.* (2024). Plasmablast Ig repertoire dynamics through repeat Plasmodium falciparum challenges reveal signatures of negative selection. *Journal of Immunology*. <https://doi.org/10.4049/jimmunol.212.supp.0224.5984>
 - Daley, B., *et al.* (including **Frank, A.**). (2024). SOS1 Inhibition Enhances the Efficacy of KRASG12C Inhibitors and Delays Resistance in Lung Adenocarcinoma. *Cancer Research*. <https://doi.org/10.1158/0008-5472.CAN-23-3256>
 - Horseman, T.S., *et al.* (including **Frank, A.**). (2024). Microbiome and inflammasome alterations found during radiation dose finding in a Sinclair minipig model of gastrointestinal acute radiation syndrome. *Shock*. <https://doi.org/10.1097/shk.0000000000002422>
