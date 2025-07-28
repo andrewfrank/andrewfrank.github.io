@@ -4,17 +4,15 @@
 
 ## Education
 
-### University of Connecticut
+### University of Connecticut — Storrs, Connecticut
 
-Storrs, Connecticut  
 Master of Science, Ecology and Evolutionary Biology  
-2013-2018  
+August 2013 - May 2018  
 
-### American University
+### American University — Washington, District of Columbia
 
-Washington, District of Columbia  
 Bachelor of Science, Biology, *magna cum laude*, University Honors  
-2007-2011  
+August 2007 - May 2011  
 
 ## Technical Skills
 
