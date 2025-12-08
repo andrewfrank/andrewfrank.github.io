@@ -28,7 +28,7 @@ August 2007 - May 2011
 ### The Henry M. Jackson Foundation (HJF) — Bethesda, Maryland
 
 IT Architect I  
-March 2024 - Present  
+March 2024 - September 2025  
 
 - Lead the Uniformed Services University of the Health Sciences "Academic Research Cloud Initiative" (ARC), a new university GCP environment for developing and operating research applications
 - Collaborating with internal stakeholders and Google's Professional Services Organization to deploy a FedRAMP and university policy compliant security-best practice cloud deployment using Assured Workloads and Google's Enterprise Foundation Blueprint
@@ -84,6 +84,7 @@ June 2011 - May 2013
 
 ## [Publications][gscholar]
 
+- Kounelis-Wuillaume, S.K., **Frank, A.**, *et al.* (2025). A spatial gene expression signature of the mouse brain post-injury at the focal point of contusion. *Journal of Neurotrauma*. <https://doi.org/10.1177/08977151251390528>
 - Mangione, C., **Frank, A.**, *et al.* (2025). Transcriptional reprogramming in SMA mouse hearts reveals signatures of early heart failure and dysregulated calcium signaling. *Human Molecular Genetics*. <https://doi.org/10.1093/hmg/ddaf060>
 - Bauman, B., *et al.* (including **Frank, A.**). (2025). Dominant interfering CARD11 variants disrupt JNK signaling to promote GATA3 expression in T cells. *Journal of Experimental Medicine*. <https://doi.org/10.1084/jem.20240272>
 - Bauman, B., *et al.* (including **Frank, A.**). (2025). CARD11-dependent signaling in T cells is critical for the activation of multiple AP-1 transcription factor complexes. *Journal of Immunology*. <https://doi.org/10.4049/jimmunol.212.supp.0224.5984>
