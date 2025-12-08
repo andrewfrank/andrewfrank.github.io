@@ -101,6 +101,10 @@ June 2011 - May 2013
 - **Frank, A.** (2019). The ATCC Genome Portal: Our Approach to Whole-genome Sequencing. *ATCC Technical Document*. <https://www.atcc.org/resources/technical-documents/genome-portal-technical-document>
 - Lopera, J., **Frank, A.**, *et al.* (2019). Microbial Genome Databases: Existing Challenges and the Need for Authenticated Reference Genomes. *ATCC Application Note*. <https://www.atcc.org/resources/application-notes/microbial-genome-databases>
 
+## [Projects][github]
+
+- [**Cloud Bioinformatics Tutorials**](https://andrewfrank.github.io/cloud-bioinformatics-tutorials): Tutorials for introducing and accomplishing a few bioinformatics-related tasks within a Google Cloud environment. Written at various times between 2020 and 2024.
+
 [email]: mailto:andrew.m.frank@gmail.com
 [linkedin]: https://linkedin.com/in/andrewmfrank/
 [github]: https://andrewfrank.github.io/
