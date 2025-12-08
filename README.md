@@ -1,6 +1,6 @@
 # Andrew M. Frank
 
-[andrew.m.frank@gmail.com][email] • [linkedin.com/in/andrewmfrank][linkedin] • [andrewfrank.github.io][github]
+[andrew.m.frank@gmail.com][email] • [linkedin.com/in/andrewmfrank][linkedin] • [github.com/andrewfrank][github]
 
 ## Education
 
@@ -103,9 +103,9 @@ June 2011 - May 2013
 
 ## [Projects][github]
 
-- [**Cloud Bioinformatics Tutorials**](https://andrewfrank.github.io/cloud-bioinformatics-tutorials): Tutorials for introducing and accomplishing a few bioinformatics-related tasks within a Google Cloud environment. Written at various times between 2020 and 2024.
+- [**Cloud Bioinformatics Tutorials**](https://andrewfrank.github.io/cloud-bioinformatics-tutorials) - Tutorials for introducing and accomplishing a few bioinformatics-related tasks within a Google Cloud environment. Written at various times between 2020 and 2024.
 
 [email]: mailto:andrew.m.frank@gmail.com
 [linkedin]: https://linkedin.com/in/andrewmfrank/
-[github]: https://andrewfrank.github.io/
+[github]: https://github.com/andrewfrank
 [gscholar]: https://scholar.google.com/citations?user=eSgMGrgAAAAJ
