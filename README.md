@@ -27,7 +27,7 @@ August 2007 - May 2011
 
 ### Seven Bridges Genomics, a Velsera Company
 
-Program Manager
+Program Manager  
 July 2026 - Current
 
 ### The Henry M. Jackson Foundation (HJF) — Bethesda, Maryland
