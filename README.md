@@ -25,7 +25,7 @@ August 2007 - May 2011
 
 ## Professional Experience
 
-### Seven Bridges Genomics, a Velsera Company
+### Seven Bridges Genomics, a Velsera Company - Remote
 
 Program Manager  
 July 2026 - Current
