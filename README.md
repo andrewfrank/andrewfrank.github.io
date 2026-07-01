@@ -25,16 +25,21 @@ August 2007 - May 2011
 
 ## Professional Experience
 
+### Seven Bridges Genomics, a Velsera Company
+
+Program Manager
+July 2026 - Current
+
 ### The Henry M. Jackson Foundation (HJF) — Bethesda, Maryland
 
 IT Architect I  
 March 2024 - September 2025  
 
-- Lead the Uniformed Services University of the Health Sciences "Academic Research Cloud Initiative" (ARC), a new university GCP environment for developing and operating research applications
-- Collaborating with internal stakeholders and Google's Professional Services Organization to deploy a FedRAMP and university policy compliant security-best practice cloud deployment using Assured Workloads and Google's Enterprise Foundation Blueprint
-- Trailblazing adoption of a GitOps approach to cloud management using Terraform, git, Secure Source Manager, and Cloud Build
+- Led the Uniformed Services University of the Health Sciences "Academic Research Cloud Initiative" (ARC), a new university GCP environment for developing and operating research applications
+- Collaborated with internal stakeholders and Google's Professional Services Organization to deploy a FedRAMP and university policy compliant security-best practice cloud deployment using Assured Workloads and Google's Enterprise Foundation Blueprint
+- Trailblazed adoption of a GitOps approach to cloud management using Terraform, git, Secure Source Manager, and Cloud Build
 - Developing applications for commonly used cloud services by researchers, including deployments of Cloud Workstations and central management of bioinformatics workflows with Google's Batch API
-- Growing and supervising the team operating the ARC Initiative, responsible for writing job descriptions, interviewing, and hiring for positions new to HJF
+- Grew and supervised the team operating the ARC Initiative, responsible for writing job descriptions, interviewing, and hiring for positions new to HJF
 
 Bioinformatics Research Associate II  
 November 2021 - February 2024  
